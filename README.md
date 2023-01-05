@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **basel_amin77@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1cns4sVkMxvv6yn0m3CNZvA3OsjN5THw_/view?usp=sharing](https://drive.google.com/file/d/1hBS9DprDV7K7g9J-lnsZ7Aw68kncKIsr/view?usp=sharing)]([https://drive.google.com/file/d/1cns4sVkMxvv6yn0m3CNZvA3OsjN5THw_/view?usp=sharing](https://drive.google.com/file/d/1hBS9DprDV7K7g9J-lnsZ7Aw68kncKIsr/view?usp=sharing))
+- 📄 Know about my experiences ((https://drive.google.com/file/d/1hBS9DprDV7K7g9J-lnsZ7Aw68kncKIsr/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
