@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BaselAmin1" alt="BaselAmin1" /></a> </p>
 
-- 📫 How to reach me **basel_amin77@gmail.com**
+- 📫 How to reach me **dev.basel.amin@gmail.com**
 
-- 📄 Know about my experiences ((https://drive.google.com/file/d/1hBS9DprDV7K7g9J-lnsZ7Aw68kncKIsr/view?usp=sharing))
+- 📄 Know about my experiences (https://drive.google.com/file/d/1hBS9DprDV7K7g9J-lnsZ7Aw68kncKIsr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
