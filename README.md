@@ -2,7 +2,7 @@
 <h3 align="center">A flutter developer from Egypt</h3>
 # 💫 About Me:
 📫 How to reach me dev.basel.amin@gmail.com<br><br>📄 Know about my experiences : https://drive.google.com/file/d/1tN0CY46rXiZFk41DRSXeGp_tf_5ZOKpL/view?usp=sharing
-
+<h3 align="center">A flutter developer from Egypt</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basel-amin/) 
