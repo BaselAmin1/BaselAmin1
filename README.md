@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basel Amin</h1>
 <h3 align="center">A flutter developer from Egypt</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BaselAmin1" alt="BaselAmin1" /></a> </p>
 # 💫 About Me:
 📫 How to reach me dev.basel.amin@gmail.com<br><br>📄 Know about my experiences : https://drive.google.com/file/d/1tN0CY46rXiZFk41DRSXeGp_tf_5ZOKpL/view?usp=sharing
 
