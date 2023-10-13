@@ -46,10 +46,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BaselAmin1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=BaselAmin1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 0 2px rgba(0, 0, 0, 0.25); filter: sepia(100%) hue-rotate(-60deg);" />
-</div>
+
 
 
 ### ✍️ Random Dev Quote
