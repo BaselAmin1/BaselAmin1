@@ -53,7 +53,7 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+  (https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 </div>
 
 
