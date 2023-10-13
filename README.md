@@ -45,11 +45,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BaselAmin1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![](https://github-readme-stats.vercel.app/api?username=BaselAmin1&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BaselAmin1&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaselAmin1&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BaselAmin1&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 <div align="center">
@@ -57,9 +58,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BaselAmin1&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BaselAmin1&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaselAmin1&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaselAmin1&theme=discord&no-frame=true&no-bg=false&margin-w=4)
