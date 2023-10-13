@@ -9,7 +9,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=BaselAmin1&icon=0&color=1)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
-<div align="left">
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
@@ -46,7 +52,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=BaselAmin1&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</div>
+
 
 
 
