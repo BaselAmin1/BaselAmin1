@@ -51,7 +51,7 @@
 
 
 ### ✍️ Random Dev Quote
-<div style="text-align: center;">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Centered Image">
 </div>
 
