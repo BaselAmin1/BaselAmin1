@@ -1,54 +1,48 @@
-<h1 align="center">Hi 👋, I'm Basel Amin</h1>
-<h3 align="center">A flutter developer from Egypt</h3>
-# 💫 About Me:
-📫 How to reach me dev.basel.amin@gmail.com<br><br>📄 Know about my experiences : https://drive.google.com/file/d/1nUDG9gn6Sor33Jqbkcfp4If-U0bX7bIg/view?usp=sharing
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basel!+😎;" />
+</h1>
 
+## 🙋‍♂️ About Me:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basel-amin/) 
+- 🔭 I’m currently working as a **Mobile Application Developer**.
 
-[![](https://visitcount.itsvg.in/api?id=BaselAmin1&icon=0&color=1)](https://visitcount.itsvg.in)
-# 💻 Tech Stack:
-###
+- 🌱 I’m currently learning **Advanced Flutter, Laravel**.
 
-<h3 align="left">🛠 Language and tools</h3>
+- 📄 Know about my experiences **[MY CV]([https://github.com/Shalaby-VBS?tab=repositories](https://drive.google.com/file/d/1nUDG9gn6Sor33Jqbkcfp4If-U0bX7bIg/view?usp=sharing))**.
 
-###
-
+## 🚀 Languages and Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
-# 📊 GitHub Stats:
 
-###
+## 🤝 Connect With Me:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BaselAmin1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <a href="https://www.linkedin.com/in/basel-amin/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
+
+  <a href="mailto:dev.basel.amin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+</div>
+
+## 📊 My Stats:
+
+
+<p align="center">
+    <a href="https://github.com/Shalaby-VBS/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shalaby's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shalaby-VBS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Centered Image">
 </div>
