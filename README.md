@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning **Advanced Flutter, Laravel**.
 
-- 📄 Know about my experiences **[MY CV]([https://github.com/Shalaby-VBS?tab=repositories](https://drive.google.com/file/d/1nUDG9gn6Sor33Jqbkcfp4If-U0bX7bIg/view?usp=sharing)**.
+- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1nUDG9gn6Sor33Jqbkcfp4If-U0bX7bIg/view?usp=sharing)**.
+
 
 
 ## 🚀 Languages and Tools:
