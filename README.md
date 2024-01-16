@@ -36,8 +36,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/Shalaby-VBS/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shalaby's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shalaby-VBS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/BaselAmin1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Basel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAmin1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
