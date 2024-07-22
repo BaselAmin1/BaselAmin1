@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter, Swift**.
 
-- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1nUDG9gn6Sor33Jqbkcfp4If-U0bX7bIg/view?usp=sharing)**.
+- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1IJg845i0hnM5hhdC7JwVDsPKnbi6BQHh/view?usp=sharing)**.
 
 
 
