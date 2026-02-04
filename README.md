@@ -15,7 +15,7 @@
 - 🌱 Currently diving deeper into **Advanced Flutter**, **State Management**, and exploring **Swift**.
 - 🧩 Focused on **Clean Architecture**, **Reusable Components**, and **Scalable Codebases**.
 - 🛠️ Working at an **ERP Software Company** building real-world business applications.
-- 📄 [Check My CV](https://drive.google.com/file/d/1IJg845i0hnM5hhdC7JwVDsPKnbi6BQHh/view?usp=sharing)
+- 📄 [Check My CV](https://drive.google.com/file/d/1qKi3schH1ojVxBoGbmsyv8YfdTEUtZVc/view?usp=drivesdk).
 
 ---
 
